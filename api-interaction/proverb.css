@@ -1,17 +1,16 @@
-
 body {
   display: flex;
   align-items: center;
   justify-content: flex-center;
   flex-direction: column;
-  background-image:url('IMG_0363.jpg');
+  background-image:url('IMG_002.jpg');
   background-size: cover;
 
 }
 h1{
   font-size: 100px;
   font-weight: bold;
-
+background-image:url('IMG_002.jpg');
 }
 
 
@@ -46,10 +45,11 @@ button:active {
   left: 2px;
 }
 #maori-proverb {
-  color: white;
+  background-image:url('IMG_0363.jpg');
+  color: black;
   font-size: 50px;
 }
 #translation {
+  background-image:url('IMG_0296.jpg');
   color: white;
   font-size: 30px;
-}
